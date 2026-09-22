@@ -1,0 +1,61 @@
+PROPRIETARY COPYRIGHT NOTICE
+
+Copyright (c) 2025-2026 RanuRbx.
+All rights reserved, subject to third-party rights.
+
+RanuRbx is the developer pseudonym of the copyright owner.
+
+This repository publishes copyright information, permission and
+license records, and registry administration tools relating to
+Ranu's Framework. It does not contain or distribute the framework's
+source code or game assets.
+
+Except for separately identified third-party materials,
+Ranu's Framework and its original scripts, modules, and assets
+are owned by the individual known by the pseudonym RanuRbx.
+
+This notice and public access to this repository do not themselves
+grant permission to use, reproduce, modify, distribute, sublicense,
+sell, or publish the framework or its assets.
+
+Permission may be granted through an owner-issued permission
+or a separate license agreement. Its scope and duration are
+determined by the applicable grant or agreement and applicable law.
+
+Entries in licenses.json marked "owner-issued-permission" record
+permission stated by RanuRbx. They are not represented as signed
+agreements or evidence that a recipient accepted contractual
+obligations. A licenseId is a record reference, not proof of a contract.
+
+The registry summarizes permissions and agreements. If a summary
+differs from the applicable underlying grant or agreement, that
+grant or agreement controls, subject to applicable law. Recorded
+dates alone do not establish that a recipient agreed to a deadline.
+Editing a registry entry does not, by itself, impose new obligations,
+override earlier rights, or validly amend, renew, or terminate an
+existing permission or agreement. Any change must be effective
+under the applicable grant or agreement and applicable law.
+
+Permission can have a fixed term or no scheduled expiration.
+A perpetual term does not, by itself, establish irrevocability.
+Revocation and termination depend on the underlying grant or agreement
+and applicable law. Registry metadata does not create those rights.
+
+Deleting, archiving, moving, or making a registry record unavailable
+does not, by itself, end permission. Permission validly granted on
+terms that survive registry removal continues according to those terms.
+No new grant, extension, or promise of irrevocability is made by this
+notice. Mandatory legal rights remain applicable.
+
+A recorded revocation or termination is an owner statement,
+not an independent determination of legal status. Its effect
+depends on the underlying grant or agreement and applicable law.
+
+Nothing in this notice limits uses permitted by applicable law
+or overrides existing licenses or applicable platform terms.
+Third-party materials remain subject to their respective
+ownership notices and licenses.
+
+Licensing contact: business.ranw@gmail.com
+Roblox User: @RanuRbx (3267747943)
+Discord User: .ranu. (751118664471805974)
